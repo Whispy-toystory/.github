@@ -4,8 +4,16 @@
 3D 캐릭터 + 어린이 특화 LLM + 음성/AR 인터랙션을 결합한  
 어린이 전용 AI 놀이 플랫폼
 
+
+## Screenshots
+## Screenshots
+
+| | | | |
+|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/33045467-613d-4bd6-8474-76a6f6463e03" width="220"/> | <img src="https://github.com/user-attachments/assets/c5f805ab-f9b1-4209-b34e-21c8d82eb364" width="220"/> | <img src="https://github.com/user-attachments/assets/101de016-10c6-4107-89aa-4926e2c73e36" width="220"/> | <img src="https://github.com/user-attachments/assets/298a53da-3ba8-41b1-a557-ba21f7298f4b" width="220"/> |
+
 # Demo
-👉 [https://www.notion.so/TEAM-1-23ae011d299f80b3aec3ce333fcc6777?pvs=21](https://youtu.be/O17BXy2MAz8)
+👉 https://youtu.be/O17BXy2MAz8)](https://youtu.be/O17BXy2MAz8
 
 ### Vision
 “아이에게 AI는 도구가 아니라 친구가 되어야 한다”
